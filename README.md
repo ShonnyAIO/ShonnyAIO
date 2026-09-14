@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jonathan.torres.8096-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jonathan.torres.8096@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Torres-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-torres-a5796b117/ "Connect on LinkedIn")
 
-I am from Venezuela. I am 27 years old. I study Computer Science at Central University of Venezuela, 3rd Year undergraduate. I aspire to be a Senior Full Stack Developer, I would like to connect new people, do a lot of software, get an international job, and participate in events.
+I am from Venezuela. I am 30 years old. I study Computer Science at Central University of Venezuela, 3rd Year undergraduate. I aspire to be a Senior Full Stack Developer, I would like to connect new people, do a lot of software, get an international job, and participate in events.
 
 🌱 I’m currently learning: Unit Testing, Microservices, DevOps, Docker, CI/CD with CircleCI, NestJS.
 
